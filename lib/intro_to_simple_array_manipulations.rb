@@ -10,14 +10,14 @@ def using_uniq(array)
   array.uniq
 end
 
-def using_flatten
+def using_flatten(array)
   
 end
 
-def using_delete
+def using_delete(array, string)
   
 end
 
-def using_delete_at
+def using_delete_at(array, integer)
   
 end
